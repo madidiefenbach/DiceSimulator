@@ -1,4 +1,5 @@
 ﻿// Madison Diefenbach 
+// Dice Simulator Assignment
 
 using System; 
 
